@@ -2,5 +2,5 @@ city,count_infected,count_healed,count_dead,count_active
 Гостивар,1,0,0,1
 Дебар,30,0,0,30
 Охрид,1,0,0,1
-Скопје,37,1,0,36
+Скопје,36,1,0,35
 Штип,2,0,0,2
