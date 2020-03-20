@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "hosital": "Клиника за инфективни болести Скопје", "lon": 41.988005, "lat": 21.425646 }, "geometry": { "type": "Point", "coordinates": [ 41.988005, 21.425646 ] } },
+{ "type": "Feature", "properties": { "hosital": "Општа болница Дебар", "lon": 41.523717, "lat": 20.523101 }, "geometry": { "type": "Point", "coordinates": [ 41.523717, 20.523101 ] } },
+{ "type": "Feature", "properties": { "hosital": "Клиника Жан Митрев Скопје", "lon": 42.005272, "lat": 21.403212 }, "geometry": { "type": "Point", "coordinates": [ 42.005272, 21.403212 ] } }
+]
+}
