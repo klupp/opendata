@@ -9,8 +9,10 @@ hospital,date,count,age_range,origin,source
 Клиника за инфективни болести Скопје,3/14/2020,1,непознато,Скопје,http://zdravstvo.gov.mk/filipche-6-novi-pacienti-pozitivni-na-korona-virus-dosega-18-pacienti-dijagnosticirani-so-ovoj-virus/
 Општа болница Дебар,3/14/2020,5,непознато,Дебар,http://zdravstvo.gov.mk/filipche-6-novi-pacienti-pozitivni-na-korona-virus-dosega-18-pacienti-dijagnosticirani-so-ovoj-virus/
 Клиника за инфективни болести Скопје,3/16/2020,1,50-59,,
-Клиника за инфективни болести Скопје,3/17/2020,1,40-49,,
-Клиника Жан Митрев Скопје,2020-03-20,17,,Скопје,
+Клиника за инфективни болести Скопје,3/17/2020,3,40-49,Скопје,http://zdravstvo.gov.mk/potvrdeni-rezultatite-na-korona-virus-na-trojca-pacienti-vkupno-26-vo-momentov-gragjanite-strogo-da-se-pridrzhuvaat-do-merkite-i-preporakite-za-prevencija/
+Општа болница Дебар,3/17/2020,4,,Дебар,http://zdravstvo.gov.mk/filipche-vo-momentov-vo-zemjava-35-lica-zarazeni-so-koronavirus-4-novodijagnosticirani-pacienti-se-so-lesna-klinichka-slika/
+Клиника за инфективни болести Скопје,3/18/2020,4,,Скопје,http://zdravstvo.gov.mk/filipche-vo-momentov-vo-zemjava-35-lica-zarazeni-so-koronavirus-4-novodijagnosticirani-pacienti-se-so-lesna-klinichka-slika/
+Клиника Жан Митрев Скопје,2020-03-20,17,,Скопје,http://zdravstvo.gov.mk/filipche-31-zabolen-na-koronaviris-pozitivni-na-virusot-i-zdravstveni-rabotnici/
 Клиника за инфективни болести Скопје,2020-03-20,1,,Скопје,
 Клиника за инфективни болести Скопје,2020-03-20,1,,Охрид,
 Клиника за инфективни болести Скопје,2020-03-21,9,,Скопје,https://gostivarpress.mk/ushte-9-sluchai-na-korona-vo-makedonija-vo-gostivar-nema-nov-pozitiven/
