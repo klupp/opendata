@@ -6,8 +6,8 @@ hospital,date,count,age_range,origin,source
 Клиника за инфективни болести Скопје,2020-03-09,1,40-49,Дебар,
 Клиника за инфективни болести Скопје,2020-03-11,2,60-69,Дебар,
 Клиника за инфективни болести Скопје,2020-03-13,4,50-59,Дебар,http://zdravstvo.gov.mk/vecherva-na-klinikata-za-infektivni-bolesti-i-febrilni-sostojbi-nema-novi-pacienti/
-Клиника за инфективни болести Скопје,3/14/2020,1,непознато,,
-Општа болница Дебар,3/14/2020,5,непознато,Дебар,
+Клиника за инфективни болести Скопје,3/14/2020,1,непознато,Скопје,http://zdravstvo.gov.mk/filipche-6-novi-pacienti-pozitivni-na-korona-virus-dosega-18-pacienti-dijagnosticirani-so-ovoj-virus/
+Општа болница Дебар,3/14/2020,5,непознато,Дебар,http://zdravstvo.gov.mk/filipche-6-novi-pacienti-pozitivni-na-korona-virus-dosega-18-pacienti-dijagnosticirani-so-ovoj-virus/
 Клиника за инфективни болести Скопје,3/16/2020,1,50-59,,
 Клиника за инфективни болести Скопје,3/17/2020,1,40-49,,
 Клиника Жан Митрев Скопје,2020-03-20,17,,Скопје,
