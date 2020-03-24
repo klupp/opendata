@@ -39,3 +39,5 @@ city,infected_in,infected_in_city,date,count,age,source
 Скопје,Македонија,Скопје,2020-03-22,15,,
 Дебар,Македонија,,2020-03-22,4,,
 Куманово,Македонија,,2020-03-23,1,,
+Скопје,Македонија,,2020-03-24,7,,http://zdravstvo.gov.mk/sostojbata-so-koronavirusot-do-12-00-chasot-registrirani-12-novi-sluchai-na-koronavirus-vo-zemjata-vkupno-148-dijagnosticirani-pacienti/
+Куманово,Македонија,,2020-03-24,5,,http://zdravstvo.gov.mk/sostojbata-so-koronavirusot-do-12-00-chasot-registrirani-12-novi-sluchai-na-koronavirus-vo-zemjata-vkupno-148-dijagnosticirani-pacienti/
