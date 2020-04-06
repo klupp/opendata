@@ -3,7 +3,7 @@
 "features": [
 { "type": "Feature", "properties": { "count_infected": 4.0, "count_healed": 0.0, "count": 4.0, "latitude": 41.735392, "longitude": 22.197909, "count_dead": 0.0, "count_active": 4.0, "id": "Инфективно одделение Штип" }, "geometry": { "type": "Point", "coordinates": [ 22.197909, 41.735392 ] } },
 { "type": "Feature", "properties": { "count_infected": 17.0, "count_healed": 0.0, "count": 17.0, "latitude": 42.005272, "longitude": 21.403212, "count_dead": 0.0, "count_active": 17.0, "id": "Клиника Жан Митрев Скопје" }, "geometry": { "type": "Point", "coordinates": [ 21.403212, 42.005272 ] } },
-{ "type": "Feature", "properties": { "count_infected": 31.0, "count_healed": 23.0, "count": -10.0, "latitude": 41.988005, "longitude": 21.425646, "count_dead": 18.0, "count_active": -10.0, "id": "Клиника за инфективни болести Скопје" }, "geometry": { "type": "Point", "coordinates": [ 21.425646, 41.988005 ] } },
-{ "type": "Feature", "properties": { "count_infected": 15.0, "count_healed": 0.0, "count": 15.0, "latitude": 41.523717, "longitude": 20.523101, "count_dead": 0.0, "count_active": 15.0, "id": "Општа болница Дебар" }, "geometry": { "type": "Point", "coordinates": [ 20.523101, 41.523717 ] } }
+{ "type": "Feature", "properties": { "count_infected": 31.0, "count_healed": 27.0, "count": -16.0, "latitude": 41.988005, "longitude": 21.425646, "count_dead": 20.0, "count_active": -16.0, "id": "Клиника за инфективни болести Скопје" }, "geometry": { "type": "Point", "coordinates": [ 21.425646, 41.988005 ] } },
+{ "type": "Feature", "properties": { "count_infected": 15.0, "count_healed": 3.0, "count": 12.0, "latitude": 41.523717, "longitude": 20.523101, "count_dead": 0.0, "count_active": 12.0, "id": "Општа болница Дебар" }, "geometry": { "type": "Point", "coordinates": [ 20.523101, 41.523717 ] } }
 ]
 }
