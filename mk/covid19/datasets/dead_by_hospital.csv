@@ -1,5 +1,5 @@
 hospital,date,count,age_range,link
-Општа болница Куманово,2020-03-22,1,50-59,https://meta.mk/prva-zhrtva-od-korona-virusot-pochina-57-godishna-kumanovka-vkupno-114-zarazeni-
+Општа Болница Куманово,2020-03-22,1,50-59,https://meta.mk/prva-zhrtva-od-korona-virusot-pochina-57-godishna-kumanovka-vkupno-114-zarazeni-
 Клиника за инфективни болести Скопје,2020-03-23,1,60-69,https://sitel.com.mk/nova-zhrtva-od-korona-virusot-pochina-63-godishen-mazh-od-debar
 Клиника за инфективни болести Скопје,2020-03-25,1,60-69,https://kanal5.com.mk/treta-zhrtva-od-koronavirusot-vo-makedonija-29-novozaboleni/a414904
 Клиника за инфективни болести Скопје,2020-03-28,1,60-69,https://www.facebook.com/filipce.venko/?epa=SEARCH_BOX
@@ -47,3 +47,4 @@ hospital,date,count,age_range,link
 Клиника за инфективни болести Скопје,2020-04-20,1,70-79,https://www.facebook.com/215658488491348/posts/3052897031434132/
 Болница 8ми Септември,2020-04-20,1,60-69,https://www.facebook.com/215658488491348/posts/3052897031434132/
 Болница 8ми Септември,2020-04-21,1,70-79,https://www.facebook.com/215658488491348/posts/3055374694519699/
+Болница 8ми Септември,2020-04-22,1,50-59,https://www.facebook.com/filipce.venko/posts/2369382193368800
