@@ -39,13 +39,16 @@ city,date,count,age,source
 Куманово,2020-04-22,1,,http://zdravstvo.gov.mk/ozdraveni-se-48-pacienti-potvrdeni-28-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1259-pochina-1-lice/
 Битола,2020-04-22,1,,http://zdravstvo.gov.mk/ozdraveni-se-48-pacienti-potvrdeni-28-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1259-pochina-1-lice/
 Скопје,2020-04-22,19,,http://zdravstvo.gov.mk/ozdraveni-se-48-pacienti-potvrdeni-28-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1259-pochina-1-lice/
-,2020-04-22,6,,
+Струга,2020-04-22,4,,
+Кочани,2020-04-22,1,,
+,2020-04-22,1,,
 Тетово,2020-04-22,16,,http://zdravstvo.gov.mk/ozdraveni-se-48-pacienti-potvrdeni-28-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1259-pochina-1-lice/
 Штип,2020-04-22,1,,http://zdravstvo.gov.mk/ozdraveni-se-48-pacienti-potvrdeni-28-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1259-pochina-1-lice/
 Радовиш,2020-04-22,4,,http://zdravstvo.gov.mk/ozdraveni-se-48-pacienti-potvrdeni-28-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1259-pochina-1-lice/
 Скопје,2020-04-23,7,,http://zdravstvo.gov.mk/ozdraveni-se-29-pacienti-potvrden-e-41-nov-sluchaj-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1300/
-Велес,2020-04-23,11,,
+Велес,2020-04-23,8,,
 Прилеп,2020-04-23,2,,
+Куманово,2020-04-23,9,,
 Тетово,2020-04-23,3,,
 Скопје,2020-04-24,15,,http://zdravstvo.gov.mk/ozdraveni-se-36-pacienti-potvrdeni-se-26-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1326-pochina-1-lice/
 Прилеп,2020-04-24,6,,http://zdravstvo.gov.mk/ozdraveni-se-36-pacienti-potvrdeni-se-26-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1326-pochina-1-lice/
@@ -53,17 +56,19 @@ city,date,count,age,source
 Штип,2020-04-24,7,,http://zdravstvo.gov.mk/ozdraveni-se-36-pacienti-potvrdeni-se-26-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1326-pochina-1-lice/
 Кочани,2020-04-24,2,,http://zdravstvo.gov.mk/ozdraveni-se-36-pacienti-potvrdeni-se-26-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1326-pochina-1-lice/
 Велес,2020-04-24,3,,http://zdravstvo.gov.mk/ozdraveni-se-36-pacienti-potvrdeni-se-26-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1326-pochina-1-lice/
-Гевгелија,2020-04-24,3,,
-Кавадарци,2020-04-24,1,,
 Пробиштип,2020-04-24,1,,http://zdravstvo.gov.mk/ozdraveni-se-36-pacienti-potvrdeni-se-26-novi-sluchai-na-kovid-19-vkupnata-brojka-na-dijagnosticirani-e-1326-pochina-1-lice/
-Гостивар,2020-04-24,2,,
-Струмица,2020-04-24,1,,
-Крушево,2020-04-24,1,,
-Крива Паланка,2020-04-24,2,,
-Скопје,2020-04-25,18,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-4/
+Скопје,2020-04-25,12,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-4/
+Струга,2020-04-25,6,,
 Охрид,2020-04-25,3,,
 Куманово,2020-04-25,16,,
-Скопје,2020-04-26,13,,http://www.iph.mk/covid19-25-4-2020/
+Струга,2020-04-26,13,,http://www.iph.mk/covid19-25-4-2020/
+Кочани,2020-04-26,7,,
+Гевгелија,2020-04-26,3,,
+Кавадарци,2020-04-26,1,,
+Гостивар,2020-04-26,2,,
+Струмица,2020-04-26,1,,
+Крушево,2020-04-26,1,,
+Крива Паланка,2020-04-26,2,,
 Прилеп,2020-03-26,13,,
 Битола,2020-04-26,4,,
 Штип,2020-03-26,2,,
@@ -121,4 +126,4 @@ city,date,count,age,source
 Охрид,2020-05-04,1,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-3-5-2020/
 Гостивар,2020-05-04,5,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-3-5-2020/
 Крива Паланка,2020-05-04,1,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-3-5-2020/
-Кочани,2020-05-04,11,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-3-5-2020/
+Кочани,2020-05-04,1,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-3-5-2020/
