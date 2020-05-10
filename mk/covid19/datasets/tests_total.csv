@@ -1,97 +1,96 @@
 date,count,total,where,source
-2020-02-15,2.0,2,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-16,5.0,7,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-17,0.0,7,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-18,0.0,7,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-19,1.0,8,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-20,0.0,8,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-21,1.0,9,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-22,1.0,10,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-23,0.0,10,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-24,2.0,12,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-25,1.0,13,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-26,10.0,23,Клиника за инфективни болести Скопје,https://vlada.mk/node/20405
-2020-02-27,0.0,23,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
-2020-02-28,3.0,26,,
-2020-02-29,3.0,29,,
-2020-03-01,0.0,29,,
-2020-03-02,3.0,32,,
-2020-03-03,1.0,33,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/tri-novi-testiranja-na-korona-virus-rezultatite-na-trojcata-patnici-se-negativni/
-2020-03-03,1.0,34,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/popladnevo-testirano-ushte-edno-lice-na-korona-virus-rezultatot-e-negativen/
-2020-03-04,2.0,36,,
-2020-03-05,4.0,40,Клиника за инфективни болести Скопје,https://vlada.mk/node/20414
-2020-03-06,2.0,42,Клиника за инфективни болести Скопје,https://vlada.mk/node/20405
-2020-03-07,0.0,42,Општа болница Дебар,https://vlada.mk/node/20427
-2020-03-08,2.0,44,,
-2020-03-09,7.0,51,Клиника за инфективни болести Скопје,https://vlada.mk/node/20442
-2020-03-09,1.0,52,Клиника за инфективни болести Скопје,https://vlada.mk/node/20459
-2020-03-10,2.0,54,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/site-zakluchoci-na-vladata-na-severna-makedonija-od-15-redovna-sednica-za-prezemanje-dopolnitelni-i-zaostreni-merki-i-aktivnosti-za-prevencija-od-shirenje-na-korona-virusot/
-2020-03-10,2.0,56,Клиника за инфективни болести Скопје,https://vlada.mk/node/20459
-2020-03-11,13.0,69,Инфективно одделение Штип,https://vlada.mk/node/20459
-2020-03-12,13.0,82,Клиника за инфективни болести Скопје,https://vlada.mk/node/20480
-2020-03-12,9.0,91,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/rezultatite-na-site-deneska-testirani-lica-na-korona-virus-se-negativni/
-2020-03-13,4.0,95,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/rezultatite-na-site-deneska-testirani-lica-na-korona-virus-se-negativni/
-2020-03-13,9.0,104,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/vecherva-na-klinikata-za-infektivni-bolesti-i-febrilni-sostojbi-nema-novi-pacienti/
-2020-03-13,6.0,110,Општа болница Дебар,http://zdravstvo.gov.mk/na-korona-virus-se-testiraat-7-lica/
-2020-03-14,1.0,111,Центар за јавно здравје Битола,http://zdravstvo.gov.mk/na-korona-virus-se-testiraat-7-lica/
-2020-03-14,12.0,123,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/filipche-6-novi-pacienti-pozitivni-na-korona-virus-dosega-18-pacienti-dijagnosticirani-so-ovoj-virus/
-2020-03-15,11.0,134,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/ministerot-filipche-na-korona-virus-se-testiraat-novi-7-pacienti-raspolagame-vo-120-respiratori/
-2020-03-16,5.0,139,Општа болница Дебар,http://zdravstvo.gov.mk/prvata-pacientka-so-korona-virus-deneska-zaminuva-na-domashno-lekuvanje/
-2020-03-16,7.0,146,Општа болница Дебар,http://zdravstvo.gov.mk/nema-novodijagnosticirani-pacienti-od-deneska-se-voveduva-telefonska-psiholoshka-poddrshka-za-gragjani-i-ranlivi-grupi-od-klinikata-za-psihijatrija/
-2020-03-16,5.0,151,Центар за јавно здравје во Штип,http://zdravstvo.gov.mk/nema-novodijagnosticirani-pacienti-od-deneska-se-voveduva-telefonska-psiholoshka-poddrshka-za-gragjani-i-ranlivi-grupi-od-klinikata-za-psihijatrija/
-2020-03-17,2.0,153,Клиника Жан Митрев Скопје,http://zdravstvo.gov.mk/sostojbata-so-koronavirusot-vo-zemjata-do-12-00-chasot-vkupno-26-zaboleni/
-2020-03-17,80.0,233,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/sostojbata-so-koronavirusot-vo-zemjata-do-12-00-chasot-vkupno-26-zaboleni/
-2020-03-18,38.0,271,Куманово,http://zdravstvo.gov.mk/filipche-vo-momentov-vo-zemjava-35-lica-zarazeni-so-koronavirus-4-novodijagnosticirani-pacienti-se-so-lesna-klinichka-slika/
-2020-03-19,71.0,342,,http://zdravstvo.gov.mk/filipche-novi-6-sluchai-na-koronavirus-vkupno-48-iskluchitelno-e-vazhna-ulogata-na-gragjanite-na-nivnata-svest-site-treba-i-mora-da-pridonesat-ovaa-kriza-da-se-nadmine/
-2020-03-20,92.0,434,,http://zdravstvo.gov.mk/filipche-vkupno-70-lica-zarazeni-so-korona-vo-zemjata-od-ponedelnik-vo-skopje-kje-se-vrshi-testiranje-i-vo-poliklinikite-chair-i-jane-sandanski/
-2020-04-20,301.0,735,Клиника Жан Митрев Скопје,
-2020-03-21,153.0,888,,http://www.iph.mk/covid19-22-03-2020/
-2020-03-22,115.0,1003,,http://www.iph.mk/sostojba-so-covid19-vo-severna-makedonija-i-svetot-22-03-2020/
-2020-03-23,232.0,1235,,http://www.iph.mk/sostojba-so-covid-19-vo-severna-makedonija-i-svetot-23-3-2020/
-2020-03-24,257.0,1492,,http://www.iph.mk/covid19-24-03-2020/
-2020-03-25,340.0,1832,,http://www.iph.mk/covid-25-3-2020/
-2020-03-26,369.0,2201,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8/
-2020-03-27,406.0,2607,,http://www.iph.mk/covid19-27-3-2020/
-2020-03-28,542.0,3149,,
-2020-03-29,252.0,3401,,http://www.iph.mk/covid19-29-3-2020/
-2020-03-30,392.0,3793,,http://www.iph.mk/covid19-30-3-2020/
-2020-03-31,257.0,4050,,http://www.iph.mk/covid19-31-3-2020/
-2020-04-01,342.0,4392,,http://www.iph.mk/covid19-1-4-2020/
-2020-04-02,389.0,4781,,http://www.iph.mk/covid19-2-4-2020/
-2020-04-03,414.0,5195,,http://www.iph.mk/covid19-3-4-2020/
-2020-04-04,371.0,5566,,http://www.iph.mk/covid19-4-4-2020/
-2020-04-05,202.0,5768,,http://www.iph.mk/covid19-5-4-2020/
-2020-04-06,386.0,6154,,http://www.iph.mk/covid19-6-4-2020/
-2020-04-07,351.0,6505,,http://www.iph.mk/covid19-7-4-2020g/
-2020-04-08,341.0,6846,,http://www.iph.mk/covid19-8-4-2020/
-2020-04-09,496.0,7342,,http://www.iph.mk/covid19-9-4-2020/
-2020-04-10,586.0,7928,,http://www.iph.mk/covid19-10-4-2020/
-2020-04-11,404.0,8332,,http://www.iph.mk/covid19-11-4-2020/
-2020-04-12,220.0,8552,,http://www.iph.mk/covid19-12-4-2020/
-2020-04-13,710.0,9262,,http://www.iph.mk/covid19-13-4-2020/
-2020-04-14,500.0,9762,,http://www.iph.mk/covid19-14-4-2020/
-2020-04-15,660.0,10422,,http://www.iph.mk/covid19-15-4-2020/
-2020-04-16,437.0,10859,,http://www.iph.mk/covid19-16-4-2020/
-2020-04-17,697.0,11556,,https://www.facebook.com/filipce.venko/posts/2366278513679168
-2020-04-18,314.0,11870,,https://www.facebook.com/filipce.venko/posts/2366943920279294
-2020-04-19,263.0,12133,,https://www.facebook.com/filipce.venko/posts/2367734530200233
-2020-04-20,207.0,12340,,https://www.facebook.com/filipce.venko/posts/2368580706782282
-2020-04-21,660.0,13000,,https://www.facebook.com/filipce.venko/posts/2369382193368800
-2020-04-22,649.0,13649,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-2/
-2020-04-23,408.0,14057,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-23-4-2020/
-2020-04-24,728.0,14785,,http://www.iph.mk/covid19-24-4-2020/
-2020-04-25,335.0,15120,,http://www.iph.mk/covid19-25-4-2020/
-2020-04-26,289.0,15409,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-5/
-2020-04-27,362.0,15771,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-6/
-2020-04-28,279.0,16050,,http://www.iph.mk/covid19-28-4-2020/
-2020-04-29,386.0,16436,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-29-4-2020/
-2020-04-30,362.0,16798,,http://www.iph.mk/covid-3042020/
-2020-05-01,199.0,16997,,http://www.iph.mk/covid19-1-5-2020/
-2020-05-02,249.0,17246,,http://www.iph.mk/podatoci-za-covid19-za-2-5-2020/
-2020-05-03,113.0,17359,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-3-5-2020/
-2020-05-04,185.0,17544,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-4-5-2020/
-2020-05-05,292.0,17836,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-5-5-2020/
-2020-05-06,332.0,18168,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-6-5-2020/
-2020-05-07,242.0,18410,,https://press24.mk/vo-zemjava-deneska-eden-pochinaa-potvrdeni-se-14-novi-sluchai-na-koronavirusot-ozdraveni-se-20
-2020-05-08,411.0,18821,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-8-5-2020/
-2020-05-09,,18821,,
+2020-02-15,2,2,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-16,5,7,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-17,0,7,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-18,0,7,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-19,1,8,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-20,0,8,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-21,1,9,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-22,1,10,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-23,0,10,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-24,2,12,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-25,1,13,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-26,10,23,Клиника за инфективни болести Скопје,https://vlada.mk/node/20405
+2020-02-27,0,23,,http://iph.mk/wp-content/uploads/2020/03/korona-3-21-3.png
+2020-02-28,3,26,,
+2020-02-29,3,29,,
+2020-03-01,0,29,,
+2020-03-02,3,32,,
+2020-03-03,1,33,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/tri-novi-testiranja-na-korona-virus-rezultatite-na-trojcata-patnici-se-negativni/
+2020-03-03,1,34,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/popladnevo-testirano-ushte-edno-lice-na-korona-virus-rezultatot-e-negativen/
+2020-03-04,2,36,,
+2020-03-05,4,40,Клиника за инфективни болести Скопје,https://vlada.mk/node/20414
+2020-03-06,2,42,Клиника за инфективни болести Скопје,https://vlada.mk/node/20405
+2020-03-07,0,42,Општа болница Дебар,https://vlada.mk/node/20427
+2020-03-08,2,44,,
+2020-03-09,7,51,Клиника за инфективни болести Скопје,https://vlada.mk/node/20442
+2020-03-09,1,52,Клиника за инфективни болести Скопје,https://vlada.mk/node/20459
+2020-03-10,2,54,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/site-zakluchoci-na-vladata-na-severna-makedonija-od-15-redovna-sednica-za-prezemanje-dopolnitelni-i-zaostreni-merki-i-aktivnosti-za-prevencija-od-shirenje-na-korona-virusot/
+2020-03-10,2,56,Клиника за инфективни болести Скопје,https://vlada.mk/node/20459
+2020-03-11,13,69,Инфективно одделение Штип,https://vlada.mk/node/20459
+2020-03-12,13,82,Клиника за инфективни болести Скопје,https://vlada.mk/node/20480
+2020-03-12,9,91,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/rezultatite-na-site-deneska-testirani-lica-na-korona-virus-se-negativni/
+2020-03-13,4,95,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/rezultatite-na-site-deneska-testirani-lica-na-korona-virus-se-negativni/
+2020-03-13,9,104,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/vecherva-na-klinikata-za-infektivni-bolesti-i-febrilni-sostojbi-nema-novi-pacienti/
+2020-03-13,6,110,Општа болница Дебар,http://zdravstvo.gov.mk/na-korona-virus-se-testiraat-7-lica/
+2020-03-14,1,111,Центар за јавно здравје Битола,http://zdravstvo.gov.mk/na-korona-virus-se-testiraat-7-lica/
+2020-03-14,12,123,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/filipche-6-novi-pacienti-pozitivni-na-korona-virus-dosega-18-pacienti-dijagnosticirani-so-ovoj-virus/
+2020-03-15,11,134,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/ministerot-filipche-na-korona-virus-se-testiraat-novi-7-pacienti-raspolagame-vo-120-respiratori/
+2020-03-16,5,139,Општа болница Дебар,http://zdravstvo.gov.mk/prvata-pacientka-so-korona-virus-deneska-zaminuva-na-domashno-lekuvanje/
+2020-03-16,7,146,Општа болница Дебар,http://zdravstvo.gov.mk/nema-novodijagnosticirani-pacienti-od-deneska-se-voveduva-telefonska-psiholoshka-poddrshka-za-gragjani-i-ranlivi-grupi-od-klinikata-za-psihijatrija/
+2020-03-16,5,151,Центар за јавно здравје во Штип,http://zdravstvo.gov.mk/nema-novodijagnosticirani-pacienti-od-deneska-se-voveduva-telefonska-psiholoshka-poddrshka-za-gragjani-i-ranlivi-grupi-od-klinikata-za-psihijatrija/
+2020-03-17,2,153,Клиника Жан Митрев Скопје,http://zdravstvo.gov.mk/sostojbata-so-koronavirusot-vo-zemjata-do-12-00-chasot-vkupno-26-zaboleni/
+2020-03-17,80,233,Клиника за инфективни болести Скопје,http://zdravstvo.gov.mk/sostojbata-so-koronavirusot-vo-zemjata-do-12-00-chasot-vkupno-26-zaboleni/
+2020-03-18,38,271,Куманово,http://zdravstvo.gov.mk/filipche-vo-momentov-vo-zemjava-35-lica-zarazeni-so-koronavirus-4-novodijagnosticirani-pacienti-se-so-lesna-klinichka-slika/
+2020-03-19,71,342,,http://zdravstvo.gov.mk/filipche-novi-6-sluchai-na-koronavirus-vkupno-48-iskluchitelno-e-vazhna-ulogata-na-gragjanite-na-nivnata-svest-site-treba-i-mora-da-pridonesat-ovaa-kriza-da-se-nadmine/
+2020-03-20,92,434,,http://zdravstvo.gov.mk/filipche-vkupno-70-lica-zarazeni-so-korona-vo-zemjata-od-ponedelnik-vo-skopje-kje-se-vrshi-testiranje-i-vo-poliklinikite-chair-i-jane-sandanski/
+2020-04-20,301,735,Клиника Жан Митрев Скопје,
+2020-03-21,153,888,,http://www.iph.mk/covid19-22-03-2020/
+2020-03-22,115,1003,,http://www.iph.mk/sostojba-so-covid19-vo-severna-makedonija-i-svetot-22-03-2020/
+2020-03-23,232,1235,,http://www.iph.mk/sostojba-so-covid-19-vo-severna-makedonija-i-svetot-23-3-2020/
+2020-03-24,257,1492,,http://www.iph.mk/covid19-24-03-2020/
+2020-03-25,340,1832,,http://www.iph.mk/covid-25-3-2020/
+2020-03-26,369,2201,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8/
+2020-03-27,406,2607,,http://www.iph.mk/covid19-27-3-2020/
+2020-03-28,542,3149,,
+2020-03-29,252,3401,,http://www.iph.mk/covid19-29-3-2020/
+2020-03-30,392,3793,,http://www.iph.mk/covid19-30-3-2020/
+2020-03-31,257,4050,,http://www.iph.mk/covid19-31-3-2020/
+2020-04-01,342,4392,,http://www.iph.mk/covid19-1-4-2020/
+2020-04-02,389,4781,,http://www.iph.mk/covid19-2-4-2020/
+2020-04-03,414,5195,,http://www.iph.mk/covid19-3-4-2020/
+2020-04-04,371,5566,,http://www.iph.mk/covid19-4-4-2020/
+2020-04-05,202,5768,,http://www.iph.mk/covid19-5-4-2020/
+2020-04-06,386,6154,,http://www.iph.mk/covid19-6-4-2020/
+2020-04-07,351,6505,,http://www.iph.mk/covid19-7-4-2020g/
+2020-04-08,341,6846,,http://www.iph.mk/covid19-8-4-2020/
+2020-04-09,496,7342,,http://www.iph.mk/covid19-9-4-2020/
+2020-04-10,586,7928,,http://www.iph.mk/covid19-10-4-2020/
+2020-04-11,404,8332,,http://www.iph.mk/covid19-11-4-2020/
+2020-04-12,220,8552,,http://www.iph.mk/covid19-12-4-2020/
+2020-04-13,710,9262,,http://www.iph.mk/covid19-13-4-2020/
+2020-04-14,500,9762,,http://www.iph.mk/covid19-14-4-2020/
+2020-04-15,660,10422,,http://www.iph.mk/covid19-15-4-2020/
+2020-04-16,437,10859,,http://www.iph.mk/covid19-16-4-2020/
+2020-04-17,697,11556,,https://www.facebook.com/filipce.venko/posts/2366278513679168
+2020-04-18,314,11870,,https://www.facebook.com/filipce.venko/posts/2366943920279294
+2020-04-19,263,12133,,https://www.facebook.com/filipce.venko/posts/2367734530200233
+2020-04-20,207,12340,,https://www.facebook.com/filipce.venko/posts/2368580706782282
+2020-04-21,660,13000,,https://www.facebook.com/filipce.venko/posts/2369382193368800
+2020-04-22,649,13649,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-2/
+2020-04-23,408,14057,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-23-4-2020/
+2020-04-24,728,14785,,http://www.iph.mk/covid19-24-4-2020/
+2020-04-25,335,15120,,http://www.iph.mk/covid19-25-4-2020/
+2020-04-26,289,15409,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-5/
+2020-04-27,362,15771,,http://www.iph.mk/%d1%81%d0%be%d1%81%d1%82%d0%be%d1%98%d0%b1%d0%b0-%d1%81%d0%be-covid-19-%d0%b2%d0%be-%d1%81%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8-6/
+2020-04-28,279,16050,,http://www.iph.mk/covid19-28-4-2020/
+2020-04-29,386,16436,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-29-4-2020/
+2020-04-30,362,16798,,http://www.iph.mk/covid-3042020/
+2020-05-01,199,16997,,http://www.iph.mk/covid19-1-5-2020/
+2020-05-02,249,17246,,http://www.iph.mk/podatoci-za-covid19-za-2-5-2020/
+2020-05-03,113,17359,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-3-5-2020/
+2020-05-04,185,17544,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-4-5-2020/
+2020-05-05,292,17836,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-5-5-2020/
+2020-05-06,332,18168,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-6-5-2020/
+2020-05-07,242,18410,,https://press24.mk/vo-zemjava-deneska-eden-pochinaa-potvrdeni-se-14-novi-sluchai-na-koronavirusot-ozdraveni-se-20
+2020-05-08,411,18821,,http://www.iph.mk/%d0%bf%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-covid-19-%d0%b7%d0%b0-8-5-2020/
