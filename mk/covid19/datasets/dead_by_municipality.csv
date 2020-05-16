@@ -84,3 +84,5 @@ city,date,count,age,source
 Прилеп,2020-05-12,1.0,,http://www.iph.mk/covid19-12-5-2020-2/
 Велес,2020-05-12,1.0,,http://www.iph.mk/covid19-12-5-2020-2/
 Тетово,2020-05-12,1.0,,http://www.iph.mk/covid19-12-5-2020-2/
+Велес,2020-05-14,1.0,70-79,http://www.iph.mk/sostojba-so-covid19-za-14-5-2020/
+Скопје,2020-05-14,1.0,80+,http://www.iph.mk/sostojba-so-covid19-za-14-5-2020/
