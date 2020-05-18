@@ -86,3 +86,6 @@ city,date,count,age,source
 Тетово,2020-05-12,1.0,,http://www.iph.mk/covid19-12-5-2020-2/
 Велес,2020-05-14,1.0,70-79,http://www.iph.mk/sostojba-so-covid19-za-14-5-2020/
 Скопје,2020-05-14,1.0,80+,http://www.iph.mk/sostojba-so-covid19-za-14-5-2020/
+Скопје,2020-05-15,1.0,70-79,http://www.iph.mk/podatoci-za-covid-za-15-5-2020/
+Тетово,2020-05-16,2.0,50-59,http://www.iph.mk/podatoci-za-covid-19-za-16-5-2020/
+Велес,2020-05-16,1.0,50-59,http://www.iph.mk/podatoci-za-covid-19-za-16-5-2020/
